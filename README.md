@@ -22,7 +22,7 @@
 	.
 	.
  	.
-	.
+	data:text/html;base64,PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CjxtZXRhIGNoYXJzZXQ9IlVURi04Ij4KPHRpdGxlPkdob3N0IFdhcm5pbmc8L3RpdGxlPgo8c3R5bGU+Cmh0bW
 	.
 	.
 	.
